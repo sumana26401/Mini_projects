@@ -13,3 +13,5 @@ In this project, I used collaborative filtering and feature extraction to get th
 # 3. Stock price prediction using LSTM
 Used an LSTM neural network to predict the closing price of Apple stock using Yahoo stock API. This model can be used to predict the stock of any company just by replacing the company name in the code.
 
+# 4. Automated email bot
+This is an automated email bot that sends an unlimited number of emails to unlimited people without typing. It uses smtp library for sending mails and pyttsx3 (python tts engine) for converting the contents of what we say to text.
