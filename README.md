@@ -15,3 +15,6 @@ Used an LSTM neural network to predict the closing price of Apple stock using Ya
 
 # 4. Automated email bot
 This is an automated email bot that sends an unlimited number of emails to unlimited people without typing. It uses smtp library for sending mails and pyttsx3 (python tts engine) for converting the contents of what we say to text.
+
+# 5. Voice assistant named "ALPHA"
+This is a personalized voice assistant named ALPHA which is similar to alexa. It helps us to play songs and movies from YouTube, tells us a joke, tells us about a person and gives the information of the current time.
